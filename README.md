@@ -166,6 +166,6 @@
 - **五因子平均夏普比率为 0.3701**，整体表现中等。
 
 ## 7. 参考文献
--《101 formulaic alphas》
--《中国A股市场量化因子白皮书》
--《Size and Value in China》
+-《101 formulaic alphas》  
+-《中国A股市场量化因子白皮书》  
+-《Size and Value in China》  
