@@ -169,3 +169,4 @@
 -《101 formulaic alphas》  
 -《中国A股市场量化因子白皮书》  
 -《Size and Value in China》  
+以上原文可在Reference Branch中查看
