@@ -170,4 +170,4 @@
 -《中国A股市场量化因子白皮书》  
 -《Size and Value in China》
 
-以上原文可在Reference Branch中查看
+以上原文可在 Reference Branch 中查看
